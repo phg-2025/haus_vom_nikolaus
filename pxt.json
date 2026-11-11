@@ -1,0 +1,30 @@
+{
+    "name": "Haus_vom_Nikolaus",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "pxt-oledpaint": "github:mkleinsb/pxt-oledpaint#v1.2.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "master",
+        "tag": "v8.1.7",
+        "commits": "https://github.com/microsoft/pxt-calliope/commits/167556c547c70f74997c5f023e44576b34fa6176",
+        "target": "8.1.15",
+        "pxt": "12.1.12",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
